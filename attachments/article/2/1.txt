@@ -1,0 +1,12 @@
+div class="btn-group pull-right">
+<a class="btn dropdown-toggle" href="#" data-toggle="dropdown">
+<ul class="dropdown-menu actions">
+<li class="edit-icon">
+<a href="/geekhub/index.php/component/content/?task=article.edit&a_id=2&return=aHR0cDovL2xvY2FsaG9zdC9nZWVraHViLw==">
+</li>
+</ul>
+</div>
+
+<div class="page-header">
+<h1> головнаа </h1>
+</div>
