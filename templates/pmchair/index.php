@@ -40,7 +40,6 @@ $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/md_sty
 <div id="all">
     <div id="header">
         <h1 id="logo"></h1>
-        <div><pre><?php ?></pre></div>
         <div id="menu"><jdoc:include type="modules" name="menu" /></div>
     </div>
     <div id="slider"></div>
