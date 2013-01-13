@@ -19,6 +19,9 @@ $navposition	= $this->params->get('navposition');
 $app			= JFactory::getApplication();
 $doc			= JFactory::getDocument();
 $templateparams	= $app->getTemplate(true)->params;
+$option = JRequest::getCmd('option');
+$view = JRequest::getCmd('view');
+$catid = JRequest::getInt('catid');
 
 $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/md_stylechanger.js', 'text/javascript', true);
 ?>
@@ -37,6 +40,7 @@ $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/md_sty
 <div id="all">
     <div id="header">
         <h1 id="logo"></h1>
+        <div><pre><?php ?></pre></div>
         <div id="menu"><jdoc:include type="modules" name="menu" /></div>
     </div>
     <div id="slider"></div>
@@ -46,6 +50,9 @@ $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/md_sty
     <?php endif; ?>
 
     <div id="content"><jdoc:include type="component" /></div>
+    <?php if ($this->countModules('teacherblog') and ($option=='com_content') and ($view=='article') and ($catid==8) ): ?>
+    <div id="teacherblog"> <jdoc:include type="modules" name="teacherblog" /></div>
+    <?php endif; ?>
 
 </div>
 	</body>

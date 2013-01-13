@@ -20,28 +20,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/mod_announcement/tmpl/default.php">
+      <file leaf-file-name="helper.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/mod_teacherblog/helper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="146" selection-end="146" vertical-scroll-proportion="-0.625">
+            <state line="22" column="0" selection-start="581" selection-end="581" vertical-scroll-proportion="0.4858657">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configuration.php">
+      <file leaf-file-name="helper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/mod_announcement/helper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="27" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.0">
+            <state line="21" column="13" selection-start="609" selection-end="680" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/beez5/index.php">
+      <file leaf-file-name="helper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/mod_articles_category/helper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="225" column="64" selection-start="9865" selection-end="9865" vertical-scroll-proportion="0.0">
+            <state line="57" column="40" selection-start="1867" selection-end="1902" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -50,16 +50,25 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/pmchair/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="34" selection-start="1504" selection-end="1504" vertical-scroll-proportion="-11.708333">
+            <state line="44" column="10" selection-start="1700" selection-end="1700" vertical-scroll-proportion="-9.583333">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templateDetails.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/pmchair/templateDetails.xml">
+      <file leaf-file-name="default.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/mod_teacherblog/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="47" selection-start="2858" selection-end="2858" vertical-scroll-proportion="1.0254238">
+            <state line="12" column="45" selection-start="255" selection-end="255" vertical-scroll-proportion="-7.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libraries/joomla/database/table/content.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="267" column="9" selection-start="6472" selection-end="6472" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -75,30 +84,31 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/mod_announcement/mod_announcement.xml" />
-        <option value="$PROJECT_DIR$/mod_announcement/tmpl/default.php" />
-        <option value="$PROJECT_DIR$/modules/mod_articles_latest/mod_articles_latest.xml" />
-        <option value="$PROJECT_DIR$/modules/mod_announcement/mod_announcement.php" />
-        <option value="$PROJECT_DIR$/modules/mod_articles_popular/helper.php" />
-        <option value="$PROJECT_DIR$/modules/mod_articles_latest/helper.php" />
-        <option value="$PROJECT_DIR$/modules/mod_announcement/mod_announcement.xml" />
-        <option value="$PROJECT_DIR$/modules/mod_announcement/helper.php" />
-        <option value="$PROJECT_DIR$/modules/mod_announcement/tmpl/default.php" />
-        <option value="$PROJECT_DIR$/templates/pmchair/templateDetails.xml" />
-        <option value="$PROJECT_DIR$/templates/pmchair/index.php" />
-        <option value="$PROJECT_DIR$/templates/beez5/index.php" />
-        <option value="$PROJECT_DIR$/language/uk-UA/uk-UA.com_users.ini" />
         <option value="$PROJECT_DIR$/language/en-GB/en-GB.com_users.ini" />
         <option value="$PROJECT_DIR$/administrator/language/uk-UA/uk-UA.plg_user_joomla.ini" />
         <option value="$PROJECT_DIR$/administrator/components/com_attachments/language/uk-UA/uk-UA.com_attachments.ini" />
+        <option value="$PROJECT_DIR$/mod_teacherblog/mod_teacherblog.php" />
+        <option value="$PROJECT_DIR$/mod_teacherblog/mod_teacherblog.xml" />
+        <option value="$PROJECT_DIR$/mod_teacherblog/helper.php" />
+        <option value="$PROJECT_DIR$/templates/pmchair/templateDetails.xml" />
+        <option value="$PROJECT_DIR$/modules/mod_teacherblog/mod_teacherblog.php" />
+        <option value="$PROJECT_DIR$/modules/mod_articles_latest/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/modules/mod_teacherblog/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/templates/pmchair/index.php" />
+        <option value="$PROJECT_DIR$/modules/mod_teacherblog/helper.php" />
+        <option value="$PROJECT_DIR$/templates/pmchair/html/com_content/category/default.php" />
+        <option value="$PROJECT_DIR$/templates/pmchair/html/com_content/featured/default.php" />
+        <option value="$PROJECT_DIR$/templates/pmchair/html/com_content/category/blog.php" />
+        <option value="$PROJECT_DIR$/components/com_content/views/category/tmpl/blog.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
     <option name="y" value="25" />
-    <option name="width" value="1280" />
-    <option name="height" value="775" />
+    <option name="width" value="1284" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -126,7 +136,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,7 +196,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -201,11 +218,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com_attachments" />
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -219,20 +244,159 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com_attachments" />
+              <option name="myItemId" value="pmchair" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="category" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod_articles_news" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod_articles_news" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod_articles_latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod_articles_latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod_articles_category" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod_announcement" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,6 +409,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/mod_teacherblog" />
       <recent name="$PROJECT_DIR$/mod_announcement" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -316,15 +481,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1280" height="775" extended-state="6" />
-    <editor active="false" />
+    <frame x="-2" y="25" width="1284" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3863275" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28119937" sideWeight="0.32591414" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33468395" sideWeight="0.6136725" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37115073" sideWeight="0.6136725" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28119937" sideWeight="0.3338633" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -391,104 +556,110 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/mod_announcement/mod_announcement.xml">
+    <entry file="file://$PROJECT_DIR$/mod_announcement/helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="40" selection-start="1797" selection-end="1797" vertical-scroll-proportion="0.840796">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_teacherblog/mod_teacherblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="52" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_latest/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="62" selection-start="1634" selection-end="1634" vertical-scroll-proportion="0.027522936" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_news/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="29" selection-start="1415" selection-end="1619" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_articles_category/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="40" selection-start="1867" selection-end="1902" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/mod_announcement/helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="46" selection-start="1085" selection-end="1085" vertical-scroll-proportion="0.8745583" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_articles_latest/mod_articles_latest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="50" selection-start="427" selection-end="427" vertical-scroll-proportion="0.3626943" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_announcement/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="146" selection-end="146" vertical-scroll-proportion="-0.625">
+        <state line="21" column="13" selection-start="609" selection-end="680" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configuration.php">
+    <entry file="file://$PROJECT_DIR$/libraries/joomla/methods.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="27" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/language/uk-UA/uk-UA.com_contact.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.077319585" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/beez5/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="225" column="64" selection-start="9865" selection-end="9865" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/language/en-GB/en-GB.plg_user_joomla.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="69" selection-start="733" selection-end="733" vertical-scroll-proportion="0.41436464" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/language/en-GB/en-GB.com_users.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="0.17804155" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_attachments/language/uk-UA/uk-UA.com_attachments.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="213" column="123" selection-start="19946" selection-end="19946" vertical-scroll-proportion="0.33222592">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/language/uk-UA/uk-UA.plg_user_joomla.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="67" selection-start="568" selection-end="568" vertical-scroll-proportion="0.26362038">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/language/uk-UA/uk-UA.com_users.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="52" selection-start="2115" selection-end="2115" vertical-scroll-proportion="0.02636204">
+        <state line="32" column="34" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.346789">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/pmchair/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="34" selection-start="1504" selection-end="1504" vertical-scroll-proportion="-11.708333">
+        <state line="44" column="10" selection-start="1700" selection-end="1700" vertical-scroll-proportion="-9.583333">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_attachments/helper.php">
+    <entry file="file://$PROJECT_DIR$/modules/mod_teacherblog/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1023" column="40" selection-start="34966" selection-end="34966" vertical-scroll-proportion="26.84629">
+        <state line="12" column="45" selection-start="255" selection-end="255" vertical-scroll-proportion="-7.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_attachments/models/attachment.php">
+    <entry file="file://$PROJECT_DIR$/libraries/joomla/database/table/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.8225806">
+        <state line="267" column="9" selection-start="6472" selection-end="6472" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pmchair/templateDetails.xml">
+    <entry file="file://$PROJECT_DIR$/templates/pmchair/html/com_content/featured/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="47" selection-start="2858" selection-end="2858" vertical-scroll-proportion="1.0254238">
+        <state line="26" column="10" selection-start="866" selection-end="866" vertical-scroll-proportion="0.89403975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_content/helpers/route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="27" selection-start="633" selection-end="633" vertical-scroll-proportion="0.61587304">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pmchair/html/com_content/category/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="41" selection-start="990" selection-end="990" vertical-scroll-proportion="0.54635763">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_content/views/category/tmpl/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="19" selection-start="902" selection-end="902" vertical-scroll-proportion="0.6330275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pmchair/html/com_content/category/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="52" selection-start="596" selection-end="596" vertical-scroll-proportion="-2.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_teacherblog/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="581" selection-end="581" vertical-scroll-proportion="0.4858657">
           <folding />
         </state>
       </provider>
