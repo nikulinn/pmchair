@@ -272,6 +272,8 @@ if ($user->authorise('core.manage', 'com_content'))
 //
 
 // Get the authorised components and sub-menus.
+    if ($user->authorise('core.admin'))
+{
 $components = ModMenuHelper::getComponents( true );
 
 // Check if there are any components, otherwise, don't render the menu
@@ -298,7 +300,7 @@ if ($components)
 	}
 	$menu->getParent();
 }
-
+}
 //
 // Extensions Submenu
 //
@@ -343,6 +345,8 @@ if ($im || $mm || $pm || $tm || $lm)
 //
 // Help Submenu
 //
+    if ($user->authorise('core.admin'))
+{
 if ($showhelp == 1)
 {
 	$menu->addChild(
@@ -402,4 +406,5 @@ if ($showhelp == 1)
 	);
 	$menu->getParent();
 	$menu->getParent();
+}
 }

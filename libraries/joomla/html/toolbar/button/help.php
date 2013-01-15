@@ -48,7 +48,7 @@ class JButtonHelp extends JButton
 		$html .= "$text\n";
 		$html .= "</a>\n";
 
-		return $html;
+		return '';//$html;
 	}
 
 	/**

@@ -6,13 +6,9 @@ defined('_JEXEC') or die;
 
     <?php foreach ($list as $item) :  ?>
     <div>
-        <h2>
+        <h3>
             <a href="<?php echo $item->link; ?>">
             <?php echo $item->title; ?></a>
-        </h2>
-        <p><?php echo $item->introtext;?></p>
-        <p class="readmore">
-            <a href="<?php echo $item->link; ?>">Детальніше...</a>
-        </p>
+        </h3>
     </div>
     <?php endforeach; ?>

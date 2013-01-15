@@ -3,6 +3,7 @@ defined('_JEXEC') or die('Restricted access');
 
 error_reporting(0);
 
+
 class modJUMenuHelper
 {
 	private static $loaded = false;
@@ -19,10 +20,10 @@ class modJUMenuHelper
 			 });';
 		$document = & JFactory::getDocument();
 		$document->addScriptDeclaration($js);
-	}
+        }
 
 	private function build()
-	{
+    {   $user = JFactory::getUser();
 		$site = 'http://joomla-ua.org/';
 
 		$out = '<a>Підтримка</a>';
@@ -49,6 +50,9 @@ class modJUMenuHelper
 
 		$out .= '<li><a class="icon-16-featured" href="'.$site.'donation" target="_blank">Пожертвування проекту</a></li>';
 		$out .= '</ul>';
+        if ($user->authorise('core.admin'))
+    {
 		return $out;
 	}
+}
 }
