@@ -61,7 +61,7 @@ abstract class modQuickIconHelper
 						'link' => JRoute::_('index.php?option=com_categories&extension=com_content'),
 						'image' => 'header/icon-48-category.png',
 						'text' => JText::_('MOD_QUICKICON_CATEGORY_MANAGER'),
-						'access' => array('core.manage', 'com_content')
+						'access' => array('core.manage', 'com_content','core.admin')
 					),
 					array(
 						'link' => JRoute::_('index.php?option=com_media'),

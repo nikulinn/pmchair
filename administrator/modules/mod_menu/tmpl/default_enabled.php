@@ -244,7 +244,8 @@ if ($user->authorise('core.manage', 'com_content'))
 		);
 		$menu->getParent();
 	}
-
+    if ($user->authorise('core.admin'))
+    {
 	$menu->addChild(
 		new JMenuNode(JText::_('MOD_MENU_COM_CONTENT_CATEGORY_MANAGER'), 'index.php?option=com_categories&extension=com_content', 'class:category'), $createContent
 	);
@@ -257,7 +258,7 @@ if ($user->authorise('core.manage', 'com_content'))
 	}
 	$menu->addChild(
 		new JMenuNode(JText::_('MOD_MENU_COM_CONTENT_FEATURED'), 'index.php?option=com_content&view=featured', 'class:featured')
-	);
+	);}
 	$menu->addSeparator();
 	if ($user->authorise('core.manage', 'com_media'))
 	{

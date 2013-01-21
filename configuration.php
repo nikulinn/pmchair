@@ -11,11 +11,11 @@ class JConfig {
 	public $access = '1';
 	public $debug = '0';
 	public $debug_lang = '0';
-	public $dbtype = 'mysqli';
-	public $host = 'localhost';
-	public $user = 'root';
-	public $password = '1';
-	public $db = 'pmchair';
+	public $dbtype = 'mysql';
+	public $host = '188.190.99.96';
+	public $user = 'nikulin';
+	public $password = '12345';
+	public $db = 'PMchair';
 	public $dbprefix = 'pc7bw_';
 	public $live_site = '';
 	public $secret = 'T9AUzwxnuyAk2y4i';
@@ -27,7 +27,7 @@ class JConfig {
 	public $ftp_user = '';
 	public $ftp_pass = '';
 	public $ftp_root = '';
-	public $ftp_enable = '0';
+	public $ftp_enable = '1';
 	public $offset = 'UTC';
 	public $mailer = 'smtp';
 	public $mailfrom = 'vadiaa007@gmail.com';
