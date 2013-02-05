@@ -54,7 +54,7 @@ $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/md_sty
     <?php if ($this->countModules('teacherblog') and ($option=='com_content') and ($view=='article') and ($catid==8) ): ?>
     <div id="teacherblog"> <jdoc:include type="modules" name="teacherblog" /></div>
     <?php endif; ?>
-
+    <div id="contact"><jdoc:include type="modules" name="contact" /></div>
 </div>
 	</body>
 </html>
