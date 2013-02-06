@@ -20,29 +20,50 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="naked.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/com_foxcontact/css/naked.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="158" column="67" selection-start="3190" selection-end="3190" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="fcaptcha.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/com_foxcontact/helpers/fcaptcha.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="143" column="65" selection-start="5117" selection-end="5117" vertical-scroll-proportion="-4.7916665">
+            <state line="143" column="65" selection-start="5117" selection-end="5117" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="neon.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="neon.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/com_foxcontact/css/neon.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="310" column="14" selection-start="9540" selection-end="9540" vertical-scroll-proportion="0.3283582">
+            <state line="310" column="14" selection-start="9540" selection-end="9540" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/pmchair/css/template.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="16" selection-start="826" selection-end="826" vertical-scroll-proportion="0.5821727">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin_googlemap2_helper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/system/plugin_googlemap2/plugin_googlemap2_helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2724" column="37" selection-start="127997" selection-end="127997" vertical-scroll-proportion="-3.2083333">
+              <folding>
+                <marker date="1360156243893" expanded="false" signature="31688:31718" placeholder="..." />
+                <marker date="1360156243893" expanded="true" signature="31720:31730" placeholder="..." />
+                <marker date="1360156243893" expanded="false" signature="36484:36496" placeholder="..." />
+                <marker date="1360156243893" expanded="false" signature="41691:41703" placeholder="..." />
+                <marker date="1360156243893" expanded="false" signature="43770:43782" placeholder="..." />
+                <marker date="1360156243893" expanded="true" signature="48557:48570" placeholder="/*...*/" />
+                <marker date="1360156243893" expanded="true" signature="110703:110716" placeholder="/*...*/" />
+                <marker date="1360156243893" expanded="false" signature="131752:131782" placeholder="..." />
+                <marker date="1360156243893" expanded="true" signature="131784:131794" placeholder="..." />
+                <marker date="1360156243893" expanded="false" signature="133218:133230" placeholder="..." />
+                <marker date="1360156243893" expanded="false" signature="134123:134135" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,10 +71,8 @@
       <file leaf-file-name="default.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/mod_foxcontact/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="124" selection-start="1656" selection-end="1656" vertical-scroll-proportion="-12.083333">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="46" column="124" selection-start="1656" selection-end="1656" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,7 +80,7 @@
       <file leaf-file-name="foxcontact.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/com_foxcontact/foxcontact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="13.125">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,7 +89,7 @@
       <file leaf-file-name="mod_foxcontact.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/mod_foxcontact/mod_foxcontact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="73" selection-start="5288" selection-end="5288" vertical-scroll-proportion="-60.625">
+            <state line="112" column="73" selection-start="5288" selection-end="5288" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,8 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/administrator/components/com_content/helpers/content.php" />
-        <option value="$PROJECT_DIR$/administrator/modules/mod_menu/tmpl/default_enabled.php" />
         <option value="$PROJECT_DIR$/configuration.php" />
         <option value="$PROJECT_DIR$/templates/beez5/index.php" />
         <option value="$PROJECT_DIR$/modules/mod_ariimageslider/mod_ariimageslider/js/themes/default/style.css" />
@@ -102,6 +119,8 @@
         <option value="$PROJECT_DIR$/components/com_foxcontact/views/foxcontact/tmpl/default.php" />
         <option value="$PROJECT_DIR$/modules/mod_foxcontact/tmpl/default.php" />
         <option value="$PROJECT_DIR$/components/com_foxcontact/css/neon.css" />
+        <option value="$PROJECT_DIR$/plugins/system/plugin_googlemap2/plugin_googlemap2_helper.php" />
+        <option value="$PROJECT_DIR$/templates/pmchair/css/template.css" />
       </list>
     </option>
   </component>
@@ -138,7 +157,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -167,7 +185,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pmchair" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,91 +240,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mod_foxcontact" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pmchair11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pmchair" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mod_foxcontact" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tmpl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pmchair11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pmchair" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pmchair11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pmchair" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_foxcontact" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pmchair11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pmchair" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_foxcontact" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helpers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,8 +253,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -356,10 +335,10 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.354531" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.354531" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28119937" sideWeight="0.32591414" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21799028" sideWeight="0.645469" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22204214" sideWeight="0.645469" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28119937" sideWeight="0.3338633" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -426,28 +405,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/beez5/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="0" selection-start="0" selection-end="4858" vertical-scroll-proportion="0.026501767" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pmchair/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="20" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pmchair/templateDetails.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="25" selection-start="1382" selection-end="1382" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/administrator/language/uk-UA/uk-UA.com_foxcontact.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="33" selection-start="1016" selection-end="1108" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="22" column="33" selection-start="1016" selection-end="1108" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/mod_foxcontact/mod_foxcontact.xml">
@@ -466,72 +426,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_foxcontact/foxcontact.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="699" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="699" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_foxcontact/helpers/fsubmitter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="61" selection-start="1153" selection-end="1154" vertical-scroll-proportion="-1.4519231">
-          <folding />
-        </state>
+        <state line="32" column="61" selection-start="1153" selection-end="1154" vertical-scroll-proportion="-1.4519231" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_foxcontact/helpers/fcaptcha.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="65" selection-start="5117" selection-end="5117" vertical-scroll-proportion="-4.7916665">
+        <state line="143" column="65" selection-start="5117" selection-end="5117" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/mod_foxcontact/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="124" selection-start="1656" selection-end="1656" vertical-scroll-proportion="-12.083333">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="46" column="124" selection-start="1656" selection-end="1656" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/mod_foxcontact/mod_foxcontact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="73" selection-start="5288" selection-end="5288" vertical-scroll-proportion="-60.625">
+        <state line="112" column="73" selection-start="5288" selection-end="5288" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_foxcontact/helpers/fajaxuploader.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="99" selection-start="2782" selection-end="2782" vertical-scroll-proportion="0.18348624">
-          <folding />
-        </state>
+        <state line="77" column="99" selection-start="2782" selection-end="2782" vertical-scroll-proportion="0.18348624" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_foxcontact/foxcontact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="13.125">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_foxcontact/views/foxcontact/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="41" selection-start="2371" selection-end="2371" vertical-scroll-proportion="0.47155964">
-          <folding />
-        </state>
+        <state line="59" column="41" selection-start="2371" selection-end="2371" vertical-scroll-proportion="0.47155964" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_foxcontact/helpers/fieldsbuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="441" column="0" selection-start="15644" selection-end="15644" vertical-scroll-proportion="0.33568904">
-          <folding />
-        </state>
+        <state line="441" column="0" selection-start="15644" selection-end="15644" vertical-scroll-proportion="0.33568904" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_foxcontact/css/neon.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="310" column="14" selection-start="9540" selection-end="9540" vertical-scroll-proportion="0.3283582">
+        <state line="310" column="14" selection-start="9540" selection-end="9540" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/plugin_googlemap2/site/googlemaps/googlemapsv3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="15375" selection-start="15729" selection-end="15729" vertical-scroll-proportion="0.433526">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/system/plugin_googlemap2/plugin_googlemap2_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2724" column="37" selection-start="127997" selection-end="127997" vertical-scroll-proportion="-3.2083333">
+          <folding>
+            <marker date="1360156243893" expanded="false" signature="31688:31718" placeholder="..." />
+            <marker date="1360156243893" expanded="true" signature="31720:31730" placeholder="..." />
+            <marker date="1360156243893" expanded="false" signature="36484:36496" placeholder="..." />
+            <marker date="1360156243893" expanded="false" signature="41691:41703" placeholder="..." />
+            <marker date="1360156243893" expanded="false" signature="43770:43782" placeholder="..." />
+            <marker date="1360156243893" expanded="true" signature="48557:48570" placeholder="/*...*/" />
+            <marker date="1360156243893" expanded="true" signature="110703:110716" placeholder="/*...*/" />
+            <marker date="1360156243893" expanded="false" signature="131752:131782" placeholder="..." />
+            <marker date="1360156243893" expanded="true" signature="131784:131794" placeholder="..." />
+            <marker date="1360156243893" expanded="false" signature="133218:133230" placeholder="..." />
+            <marker date="1360156243893" expanded="false" signature="134123:134135" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pmchair/css/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="16" selection-start="826" selection-end="826" vertical-scroll-proportion="0.5821727">
           <folding />
         </state>
       </provider>
