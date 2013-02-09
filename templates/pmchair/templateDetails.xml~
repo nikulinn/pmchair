@@ -31,7 +31,6 @@
 	<positions>
 		<position>announcement</position>
         <position>menu</position>
-<position>sing_in</position>
         <position>teacherblog</position>
         <position>slider</position>
         <position>discipliny</position>
