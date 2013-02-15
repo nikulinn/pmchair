@@ -29,3 +29,10 @@ body.contentpane {
 		text-align: left;
 }
 img { border: 0 none; }
+
+div.map{
+    float: left;
+}
+div.contakty{
+    float: left;
+}
